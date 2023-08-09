@@ -1,2 +1,4 @@
 # koreanpsyco.github.io
-개인 블로그입니다.
+ 
+ PowerMDD 메뉴얼
+temporary URL = [http://www.powermdd.shop]
